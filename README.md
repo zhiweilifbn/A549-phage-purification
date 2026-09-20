@@ -1,6 +1,6 @@
 # A549-phage-purification
 
-Core RNA-seq analysis code (DESeq2, WGCNA) for "Cleanliness matters:
+Core RNA-seq analysis code for "Cleanliness matters:
 the immune response to bacteriophage preparations is driven by
 bacterial debris."
 
